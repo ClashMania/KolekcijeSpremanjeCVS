@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\bin\Debug\KolekcijeSpremanje.exe.config
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\bin\Debug\KolekcijeSpremanje.exe
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\bin\Debug\KolekcijeSpremanje.pdb
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.Form1.resources
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.exe
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\KolekcijeSpremanje\obj\Debug\KolekcijeSpremanje.pdb
